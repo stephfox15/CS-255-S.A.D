@@ -1,2 +1,14 @@
 # CS-255-S.A.D
 Module 8 Assignment 
+Stephanie Fox 
+
+The Driverpass project focused on designing a system for a company that wanted to help students prepare for their driving tests. The client, Driverpass, wanted an online system where customers could create accounts, purchase training packages, take online practice tests, and schedule driving lessons. The system also needed to allow employees to manage appointments and accounts while keeping course information updated with changes from the DMV.
+
+I think one thing I did particularly well was creating my Project Two presentation for a nontechnical audience. I was able to take the system design and explain it in the slides and speaker notes without making it overly technical or difficult to understand. I already have some experience with this from work, so explaining information in a way that makes sense to different audiences felt familiar to me. I think that helped me connect the diagrams and design decisions back to how the DriverPass system would actually work for the client.
+
+If I could go back and revise one part, I would probably work on the requirements in my Project One Business Requirements Document. Some of them were a little too general, like saying something should happen within a few seconds instead of giving an exact time. I would make those requirements more specific, so they are easier to test later. I would also add clearer goals for things like security, recovery, and how we would know if the system was actually meeting expectations after it was implemented.
+
+I interpreted the user’s needs by going through the client interview and pulling out what they wanted the DriverPass system to be able to do. From there, I turned those needs into requirements and used them when creating the diagrams and overall system design. The interview helped identify things like scheduling driving lessons, practice tests, different user roles, and keeping information updated with the DMV. I think it is important to consider the user’s needs because they are the ones who will actually be using the system. Something can work technically and still not be very useful if it is confusing or does not solve the problem the client came to you with in the first place.
+
+My approach to designing software would start with making sure I understand what the client and users actually need. I would use things like interviews, requirements, and feedback to get a clear idea of the problem before jumping into the design. After that, I would break the system into smaller parts and use diagrams to help show how everything should connect. I would also spend more time double-checking the requirements before moving too far into the design. This project showed me how much easier things are when the requirements are clear from the beginning. I would rather ask more questions early on than make assumptions and have to go back and fix things later.
+
